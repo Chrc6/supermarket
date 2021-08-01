@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">supermarket</string>
+
+    <string name="downloading_tip">Downloaded.%1$s/Total %2$s</string>
+</resources>

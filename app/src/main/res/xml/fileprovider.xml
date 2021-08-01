@@ -1,0 +1,4 @@
+<paths>
+    <!--需要临时授权访问的路径（.代表所有路径）-->
+    <external-path name="external_storage_root" path="." />
+</paths>
